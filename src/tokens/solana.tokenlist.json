@@ -19831,7 +19831,7 @@
 	    "chainId": 101,
 	    "address": "E1zxRweqCWzviAraKjNjqupuyYTzm1bukJgb8KiBN1sN",
 	    "symbol": "GOLD",
-	    "name": "SolGold",
+      "name": "GoldCoin",
 	    "decimals": 5,
 	    "logoURI": "https://lizardtoken.xyz/gallery/gold-ts1635027612.jpg",
 	    "tags": [],
